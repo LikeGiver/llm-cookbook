@@ -1,4 +1,4 @@
-![figures/readme.png](https://github.com/datawhalechina/prompt-engineering-for-developers/blob/main/figures/readme.jpeg)
+![figures/readme.png](https://github.com/datawhalechina/prompt-engineering-for-developers/blob/main/figures/readme2.png)
 
 # 面向开发者的 LLM 入门课程
 
@@ -167,7 +167,7 @@ LLM 正在逐步改变人们的生活，而对于开发者，如何基于 LLM �
 
 **核心贡献者**
 
-- [邹雨衡-项目负责人](https://github.com/nowadays0421)（Datawhale成员-对外经济贸易大学研究生）
+- [邹雨衡-项目负责人](https://github.com/logan-zou)（Datawhale成员-对外经济贸易大学研究生）
 - [长琴-项目发起人](https://yam.gift/)（内容创作者-Datawhale成员-AI算法工程师）
 - [玉琳-项目发起人](https://github.com/Sophia-Huang)（内容创作者-Datawhale成员）
 - [徐虎-教程编撰者](https://github.com/xuhu0115)（内容创作者-Datawhale成员）
